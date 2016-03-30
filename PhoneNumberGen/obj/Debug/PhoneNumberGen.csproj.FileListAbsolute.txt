@@ -1,0 +1,5 @@
+c:\users\kona\documents\visual studio 2015\Projects\PhoneNumberGen\PhoneNumberGen\bin\Debug\PhoneNumberGen.exe
+c:\users\kona\documents\visual studio 2015\Projects\PhoneNumberGen\PhoneNumberGen\bin\Debug\PhoneNumberGen.pdb
+c:\users\kona\documents\visual studio 2015\Projects\PhoneNumberGen\PhoneNumberGen\obj\Debug\PhoneNumberGen.csprojResolveAssemblyReference.cache
+c:\users\kona\documents\visual studio 2015\Projects\PhoneNumberGen\PhoneNumberGen\obj\Debug\PhoneNumberGen.exe
+c:\users\kona\documents\visual studio 2015\Projects\PhoneNumberGen\PhoneNumberGen\obj\Debug\PhoneNumberGen.pdb
